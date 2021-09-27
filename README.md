@@ -1,5 +1,6 @@
 # WhoisTools_C_Sharp
- Whois for domain
+
+#####This program is made to show domain registration information.
 
 ### Main Page
 
